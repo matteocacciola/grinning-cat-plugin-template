@@ -24,3 +24,6 @@ The script will prompt you to write the name of your plugin and make an initial 
 > A new release of your plugin is triggered every time you set a new `version` in the `plugin.json` file.
 > Please, remember to set it correctly every time you want to release an update.
 
+## Disclaimer
+
+If your plugin requires the installation of system libraries, i.e. libraries eithin the Docker container of the [Grinning Cat Core](https://www.github.com/matteocacciola/grinning-cat-core), please contact its maintainer.
