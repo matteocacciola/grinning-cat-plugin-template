@@ -26,4 +26,4 @@ The script will prompt you to write the name of your plugin and make an initial 
 
 ## Disclaimer
 
-If your plugin requires the installation of system libraries, i.e. libraries within the Docker container of the [Grinning Cat Core](https://www.github.com/matteocacciola/grinning-cat-core), please contact its maintainer.
+If your plugin requires the installation of system libraries, i.e. libraries within the Docker container of the [Grinning Cat Core](https://www.github.com/Grinning-Cat-RAG/grinning-cat-core), please contact its maintainer.
